@@ -1,7 +1,7 @@
 # Tree_Graph
 Eigen-analysis of the tree graph of a directed graph, particularly the directed complete graph $K_n$.
 
-The pdf is a complete version for the course project compared to the blog version ().
+The pdf is a complete version for the course project compared to the blog version (https://newtonpula.github.io/2024/01/29/Eigenvalues-of-Tree-Graph/).
 
 Spanning_trees.ipynb provides all code for this project. However, I'm too lazy to clean up the code so it's a mess.
 
